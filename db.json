@@ -17,18 +17,6 @@
       "text": "Food Shopping",
       "day": "March 3rd at 11:00am",
       "reminder": false
-    },
-    {
-      "id": 92234,
-      "text": "Hey Serlin",
-      "day": "12pm",
-      "reminder": true
-    },
-    {
-      "id": 14731,
-      "text": "Kannan ",
-      "day": "1pm",
-      "reminder": true
     }
   ]
 }

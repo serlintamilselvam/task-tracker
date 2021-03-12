@@ -11,5 +11,14 @@ export default {
     },
     components: {
         Button
+    },
+    computed: {
+        homePage() {
+            if(this.$route.path === '/') {
+                return true
+            } else {
+                return false
+            }
+        }
     }
 }
