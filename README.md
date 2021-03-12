@@ -1,6 +1,6 @@
 # task_tracker
 
-A simple task tracker app build using vue.js. The app was created to brush up all the basic concepts in vuejs. The end user can add, delete and update tasks. A proxy server is ran on port 5000 inorder to store and retrieve data event after page refresh.
+A simple task tracker app built using vue.js. The app was created inorder to brush up the basic concepts in vuejs. The end user can add, delete and update tasks. A proxy server is ran on port 5000 inorder to store and retrieve data event event after page refresh.
 
 ### List of Vue concepts used:
 1. Vue Router
@@ -8,7 +8,8 @@ A simple task tracker app build using vue.js. The app was created to brush up al
 3. Usage of props
 4. Emit function
 5. Compute function
-6. V-bind, V-model etc
+6. V-bind, V-model
+7. Fetch and axios api calls
 
 ### User Interface of the application
 
@@ -42,6 +43,6 @@ npm run build
 npm run lint
 ```
 
-### TO Run proxy server
+### To Run proxy server
 ```
 npm run backend
