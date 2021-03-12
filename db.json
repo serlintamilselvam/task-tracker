@@ -19,19 +19,16 @@
       "reminder": false
     },
     {
-      "id": 4
-    },
-    {
       "id": 92234,
       "text": "Hey Serlin",
       "day": "12pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 14731,
       "text": "Kannan ",
       "day": "1pm",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
