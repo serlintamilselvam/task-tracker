@@ -6,7 +6,8 @@ export default {
         title: {
             type: String,
             default: "Task Tracker"
-        }
+        },
+        showAddTask: Boolean
     },
     components: {
         Button
