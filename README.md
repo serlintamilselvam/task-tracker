@@ -1,4 +1,4 @@
-# task_tracker
+# Task Tracker
 
 A simple task tracker app built using vue.js. The app was created inorder to brush up the basic concepts in vuejs. The end user can add, delete and update tasks. A proxy server is ran on port 5000 inorder to store and retrieve data event event after page refresh.
 
